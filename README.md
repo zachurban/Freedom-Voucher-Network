@@ -1,4 +1,5 @@
-Here’s a professional, concise `README.md` file for the **Freedom Voucher Network** GitHub repository that reflects both the vision and technical ambition behind the project:
+![image](https://github.com/user-attachments/assets/1852c644-86ff-4773-874b-709d28e79212)
+
 
 ---
 
@@ -94,6 +95,7 @@ This is an experimental platform under active development. It is **not** a gover
 Built with ❤️ by housing nerds, policy wonks, and blockchain believers.
 
 ```
-/mnt/data/A_flat_vector_graphic_logo_for_the_"Freedom_Vouche.png
+
 ---
 
+```
