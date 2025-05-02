@@ -94,8 +94,6 @@ This is an experimental platform under active development. It is **not** a gover
 Built with ❤️ by housing nerds, policy wonks, and blockchain believers.
 
 ```
-
+/mnt/data/A_flat_vector_graphic_logo_for_the_"Freedom_Vouche.png
 ---
 
-Would you like a logo or architecture diagram added to this README?
-```
